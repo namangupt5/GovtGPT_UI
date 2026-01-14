@@ -205,12 +205,6 @@ ruff format --check .
 | `UASK_PASSWORD` | Application password |
 | `UASK_BASE_URL` | Application URL |
 
-### View Allure Report
-
-After CI runs, reports are published to:
-```
-https://YOUR_ORG.github.io/UAsk/
-```
 
 ### Run Tests Manually
 
