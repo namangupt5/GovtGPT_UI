@@ -230,8 +230,6 @@ Each CI run uploads:
 
 ## 🛡️ Non-Negotiable Constraints
 
-- ❌ **No paid/hosted APIs** (OpenAI, Azure, Anthropic, Gemini)
-- ✅ **All AI validation is local/offline**
 - ✅ **Prompts from Excel only** (no hardcoding)
 - ✅ **Strict POM** (no locators in steps)
 - ✅ **Self-healing locators** (adapts to UI changes)
