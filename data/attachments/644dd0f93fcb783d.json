@@ -1,0 +1,63 @@
+{
+  "validator": "GrammarValidator",
+  "passed": true,
+  "score": 0.6298565714285714,
+  "threshold": 0.6,
+  "details": {
+    "checks": [
+      {
+        "readability": {
+          "available": true,
+          "score": 22.46414285714286,
+          "grade_level": 16.3864126984127,
+          "level": "difficult"
+        }
+      },
+      {
+        "structure": {
+          "sentence_count": 12,
+          "has_complete_sentences": true,
+          "issues": [
+            "Very long sentences: 1"
+          ],
+          "avg_length": 22.083333333333332
+        }
+      },
+      {
+        "grammar_issues": 2
+      }
+    ],
+    "readability": {
+      "available": true,
+      "score": 22.46414285714286,
+      "grade_level": 16.3864126984127,
+      "level": "difficult"
+    },
+    "structure": {
+      "sentence_count": 12,
+      "has_complete_sentences": true,
+      "issues": [
+        "Very long sentences: 1"
+      ],
+      "avg_length": 22.083333333333332
+    },
+    "grammar_issues": [
+      {
+        "pattern": "\\s{2,}",
+        "message": "Multiple consecutive spaces",
+        "count": 9
+      },
+      {
+        "pattern": "[.!?]\\s*[a-z]",
+        "message": "Sentence starts with lowercase after punctuation",
+        "count": 2
+      }
+    ],
+    "overall_score": 0.6298565714285714
+  },
+  "errors": [],
+  "warnings": [
+    "Low readability: 22.5"
+  ],
+  "timestamp": "2026-01-14T13:56:55.776778"
+}

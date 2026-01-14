@@ -1,0 +1,18 @@
+The UAE government has established a robust digital infrastructure to facilitate seamless integration and data exchange between government entities and with the private sector. The main gateway for accessing these APIs is the UAE API Marketplace, which serves as a centralized platform for discovering, requesting, and integrating government APIs13.
+
+UAE API Marketplace
+
+Ministry of Justice APIs
+
+Dubai Government APIs
+
+While a full, detailed list of all internal government APIs is not publicly disclosed for security and operational reasons, the following categories are commonly available through the UAE API Marketplace and related portals:
+
+1: UAE API Marketplace – Overview and API Catalogue
+2: Ministry of Justice – API Services
+3: UAE API Marketplace User Guide (PDF)
+4: APIs for Government Efficiency (u.ae)
+5: Dubai Government Developer Portal – SDG-DHA-SheryanLookups API
+6: TDRA API-First Guideline
+
+For a comprehensive and up-to-date list of all available internal government APIs, it is recommended to consult the UAE API Marketplace directly or contact the relevant government IT authority, as some APIs may be restricted or require special authorization for access13.

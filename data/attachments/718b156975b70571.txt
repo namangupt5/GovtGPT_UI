@@ -1,0 +1,7 @@
+Grammar Validation Summary
+==========================
+Status: ✅ PASS
+Score: 0.63 / Threshold: 0.60
+
+Errors: None
+Warnings: Low readability: 22.5

@@ -1,0 +1,6 @@
+Relevance Validation Summary
+============================
+Status: ✅ PASS
+Score: 0.81 / Threshold: 0.70
+
+Errors: None

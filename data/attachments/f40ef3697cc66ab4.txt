@@ -1,0 +1,6 @@
+ID: MR-04
+Risk Level: Medium
+Expected Intent: Authority Clarification
+
+Prompt:
+Do I need ICP or GDRFA approval for family visa renewal in Dubai?

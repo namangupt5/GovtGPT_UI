@@ -1,0 +1,48 @@
+{
+  "validator": "RelevanceValidator",
+  "passed": true,
+  "score": 0.8489440560340882,
+  "threshold": 0.7,
+  "details": {
+    "min_score_required": 0.7,
+    "paragraph_count": 10,
+    "word_count": 130,
+    "checks": [
+      {
+        "semantic": 0.8478881120681763
+      },
+      {
+        "keywords": 0.75
+      }
+    ],
+    "semantic_similarity": 0.8478881120681763,
+    "paragraph_relevance": [
+      {
+        "paragraph": 0,
+        "score": 0.8601603507995605
+      },
+      {
+        "paragraph": 1,
+        "score": 0.7766388654708862
+      },
+      {
+        "paragraph": 2,
+        "score": 0.501000165939331
+      },
+      {
+        "paragraph": 3,
+        "score": 0.5979472398757935
+      },
+      {
+        "paragraph": 4,
+        "score": 0.6988037824630737
+      }
+    ],
+    "keyword_coverage": 0.75,
+    "length_score": 1.0,
+    "overall_score": 0.8489440560340882
+  },
+  "errors": [],
+  "warnings": [],
+  "timestamp": "2026-01-14T13:51:21.786175"
+}

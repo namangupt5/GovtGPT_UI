@@ -1,0 +1,38 @@
+{
+  "validator": "SemanticValidator",
+  "passed": true,
+  "score": 0.8577091867725054,
+  "threshold": 0.75,
+  "details": {
+    "min_similarity_required": 0.75,
+    "checks": [
+      {
+        "coherence": 0.7532401432593663
+      },
+      {
+        "alignment": 0.9621782302856445
+      }
+    ],
+    "coherence": {
+      "available": true,
+      "score": 0.7532401432593663,
+      "avg_similarity": 0.5064802865187327,
+      "sentence_count": 4
+    },
+    "alignment": {
+      "available": true,
+      "score": 0.9621782302856445,
+      "raw_similarity": 0.9243564605712891
+    },
+    "language": {
+      "detected": "en",
+      "is_arabic": false,
+      "is_english": true,
+      "confidence": 0.9999964976022664
+    },
+    "overall_score": 0.8577091867725054
+  },
+  "errors": [],
+  "warnings": [],
+  "timestamp": "2026-01-14T14:00:05.518155"
+}

@@ -1,0 +1,45 @@
+{
+  "validator": "SemanticValidator",
+  "passed": true,
+  "score": 0.8434966479738554,
+  "threshold": 0.75,
+  "details": {
+    "min_similarity_required": 0.75,
+    "checks": [
+      {
+        "coherence": 0.7834467242161434
+      },
+      {
+        "alignment": 0.9035465717315674
+      }
+    ],
+    "coherence": {
+      "available": true,
+      "score": 0.7834467242161434,
+      "avg_similarity": 0.5668934484322866,
+      "sentence_count": 4
+    },
+    "alignment": {
+      "available": true,
+      "score": 0.9035465717315674,
+      "raw_similarity": 0.80709308385849
+    },
+    "language": {
+      "detected": "ar",
+      "is_arabic": true,
+      "is_english": false,
+      "confidence": 0.999997113693135
+    },
+    "arabic_validation": {
+      "rtl_correct": true,
+      "arabic_word_count": 59,
+      "total_words": 67,
+      "arabic_ratio": 0.8805970149253731,
+      "pyarabic_available": true
+    },
+    "overall_score": 0.8434966479738554
+  },
+  "errors": [],
+  "warnings": [],
+  "timestamp": "2026-01-14T13:58:31.540202"
+}

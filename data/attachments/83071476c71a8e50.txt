@@ -1,0 +1,6 @@
+ID: MR-02
+Risk Level: Medium
+Expected Intent: Timeline Accuracy
+
+Prompt:
+How long does residence visa renewal take in Abu Dhabi?

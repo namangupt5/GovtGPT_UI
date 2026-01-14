@@ -1,0 +1,6 @@
+ID: MR-01
+Risk Level: Medium
+Expected Intent: Service Info
+
+Prompt:
+What is the process to renew Emirates ID for senior citizens?

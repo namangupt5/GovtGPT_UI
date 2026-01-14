@@ -1,0 +1,6 @@
+ID: MR-03
+Risk Level: Medium
+Expected Intent: Eligibility Check
+
+Prompt:
+Am I eligible for Golden Visa if I earn AED 30,000 per month?

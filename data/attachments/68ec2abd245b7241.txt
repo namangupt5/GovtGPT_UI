@@ -1,0 +1,6 @@
+Semantic Validation Summary
+===========================
+Status: ✅ PASS
+Score: 0.86 / Threshold: 0.75
+
+Errors: None

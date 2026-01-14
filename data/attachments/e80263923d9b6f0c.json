@@ -1,0 +1,58 @@
+{
+  "validator": "GrammarValidator",
+  "passed": false,
+  "score": 0.5160213385826771,
+  "threshold": 0.6,
+  "details": {
+    "checks": [
+      {
+        "readability": {
+          "available": true,
+          "score": -13.49466535433072,
+          "grade_level": 30.916732283464572,
+          "level": "very_difficult"
+        }
+      },
+      {
+        "structure": {
+          "sentence_count": 2,
+          "has_complete_sentences": true,
+          "issues": [
+            "Very long sentences: 1"
+          ],
+          "avg_length": 65.0
+        }
+      },
+      {
+        "grammar_issues": 1
+      }
+    ],
+    "readability": {
+      "available": true,
+      "score": -13.49466535433072,
+      "grade_level": 30.916732283464572,
+      "level": "very_difficult"
+    },
+    "structure": {
+      "sentence_count": 2,
+      "has_complete_sentences": true,
+      "issues": [
+        "Very long sentences: 1"
+      ],
+      "avg_length": 65.0
+    },
+    "grammar_issues": [
+      {
+        "pattern": "\\s{2,}",
+        "message": "Multiple consecutive spaces",
+        "count": 9
+      }
+    ],
+    "overall_score": 0.5160213385826771
+  },
+  "errors": [],
+  "warnings": [
+    "Low readability: -13.5"
+  ],
+  "timestamp": "2026-01-14T13:51:21.788185"
+}
