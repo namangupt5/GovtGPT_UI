@@ -1,0 +1,86 @@
+# =============================================================================
+# GovGPT Test Automation - Git Ignore
+# =============================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment & Secrets
+.env
+.env.local
+*.local
+
+# Test Reports (keep structure, ignore content)
+reports/allure-results/*
+reports/screenshots/*
+reports/videos/*
+reports/audit/*
+!reports/allure-results/.gitkeep
+!reports/screenshots/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+.ruff_cache/
+.deepeval/
+
+# Model Cache (large files)
+.cache/transformers/
+.cache/sentence_transformers/
+.cache/huggingface/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Playwright
+playwright-report/
+test-results/
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+

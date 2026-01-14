@@ -1,0 +1,24 @@
+# Production Environment Configuration
+# Inherits from base config.yaml
+
+application:
+  base_url: "https://uask.gov.ae/"
+
+browser:
+  headless: true
+  slow_mo: 0
+
+ai_validation:
+  relevance:
+    min_score: 0.8
+  hallucination:
+    max_score: 0.15
+  groundedness:
+    min_score: 0.8
+
+logging:
+  level: "INFO"
+
+retry:
+  max_attempts: 3
+

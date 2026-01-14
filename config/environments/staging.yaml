@@ -1,0 +1,22 @@
+# Staging Environment Configuration
+# Inherits from base config.yaml
+
+application:
+  base_url: "https://govgpt.sandbox.dge.gov.ae/"
+
+browser:
+  headless: false
+  slow_mo: 100
+
+ai_validation:
+  relevance:
+    min_score: 0.7  # Slightly relaxed for staging
+  hallucination:
+    max_score: 0.25
+
+logging:
+  level: "DEBUG"
+
+retry:
+  max_attempts: 2
+
