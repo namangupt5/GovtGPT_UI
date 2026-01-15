@@ -1,7 +1,6 @@
 # 🤖 GovGPT UAE Government Chatbot - Self-Healing UI Automation Framework
 
-[![CI - GovGPT Tests](https://github.com/YOUR_ORG/UAsk/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_ORG/UAsk/actions/workflows/ci.yml)
-[![Allure Report](https://img.shields.io/badge/📊_Allure-Report-green?logo=qameta)](https://YOUR_ORG.github.io/UAsk/)
+[![Allure Report](https://img.shields.io/badge/📊_Allure-Report-green?logo=qameta)](https://namangupt5.github.io/GovtGPT_UI/)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://python.org)
 [![Playwright](https://img.shields.io/badge/Playwright-Latest-45ba4b?logo=playwright)](https://playwright.dev)
 
@@ -153,7 +152,7 @@ Step-level attachments for detailed test analysis:
 ## 🔧 Validators
 
 ### Safety Validator (High-Risk)
-- **Detoxify** - Toxicity detection (FREE/LOCAL)
+- **Detoxify** - Toxicity detection 
 - **Sentence-Transformers** - ML-based injection detection using semantic similarity
 - **PII detection** - Emirates ID, phone, email patterns
 
